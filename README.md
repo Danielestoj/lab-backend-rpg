@@ -20,7 +20,7 @@ git push origin [master/main]
 
 ## Descripción del proyecto
 
-Construiréis en grupo el backend completo de un juego de rol por turnos. La aplicación gestiona **fichas de personaje**, simula **combates** entre ellos y persiste los datos en **ficheros de texto** — sin base de datos, solo el módulo `fs` de Node.
+Construiréis en grupo el backend completo de un juego de rol por turnos. La aplicación gestiona **fichas de personaje**, simula **combates** entre ellos y persiste los datos en **ficheros de texto** — sin base de datos, solo el módulo `fs` de Node
 
 El proyecto consolida todo lo visto hasta ahora: Express, Router, Controladores, Middleware y Programación Orientada a Objetos. Al terminar sabréis separar capas, modelar un dominio con clases y leer/escribir datos en disco.
 
